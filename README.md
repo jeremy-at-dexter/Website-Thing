@@ -1,4 +1,4 @@
 # My Website
 Hello there.
 
-[This is the second page](/Second)
+[This is the second page](/Website-Thing/Second)
